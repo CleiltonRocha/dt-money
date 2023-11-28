@@ -15,6 +15,30 @@
       "category": "Alimentação",
       "price": 50,
       "createdAt": "2023-11-27T14:30:06.554Z"
+    },
+    {
+      "id": 3,
+      "description": "Curso",
+      "type": "outcome",
+      "category": "Estudos",
+      "price": 140,
+      "createdAt": "2023-11-27T14:50:06.554Z"
+    },
+    {
+      "description": "Desenvolvimento de App",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-11-27T18:56:59.717Z",
+      "id": 4
+    },
+    {
+      "description": "Pizza",
+      "price": 40,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-11-27T19:13:09.087Z",
+      "id": 5
     }
   ]
 }
